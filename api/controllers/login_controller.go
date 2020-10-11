@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/Nahusha-MS/go-learning/fullstack/api/auth"
-	"github.com/Nahusha-MS/go-learning/fullstack/api/models"
-	"github.com/Nahusha-MS/go-learning/fullstack/api/responses"
-	"github.com/Nahusha-MS/go-learning/fullstack/api/utils/formaterror"
+	"github.com/Nahusha-MS/go-learning/api/auth"
+	"github.com/Nahusha-MS/go-learning/api/models"
+	"github.com/Nahusha-MS/go-learning/api/responses"
+	"github.com/Nahusha-MS/go-learning/api/utils/formaterror"
 	"golang.org/x/crypto/bcrypt"
 )
 

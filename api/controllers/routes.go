@@ -1,6 +1,6 @@
 package controllers
 
-import "github.com/Nahusha-MS/go-learning/fullstack/api/middlewares"
+import "github.com/Nahusha-MS/go-learning/api/middlewares"
 
 func (s *Server) initializeRoutes() {
 
